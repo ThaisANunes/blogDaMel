@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/91j3RB3ynKL.jpg');
+
+    min-height: 695px;
+
+    background-repeat: center;
+    background-position: no-repeat;
+    background-size: cover;
+}
